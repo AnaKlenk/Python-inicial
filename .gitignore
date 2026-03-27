@@ -179,3 +179,6 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+Pacote-download/Aula1/listas.py
+Pacote-download/ex.lista.py
+Pacote-download/Aula1/main.py
