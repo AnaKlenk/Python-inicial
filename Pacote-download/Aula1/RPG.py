@@ -1,3 +1,4 @@
+#rpg nao terminado
 print("bem vindo ao jogo!")
 
 inventario = []
